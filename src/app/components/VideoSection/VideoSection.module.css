@@ -1,0 +1,9 @@
+
+.video-wrapper{
+	display: flex;
+	justify-content: center;
+	height: 600px;
+}
+.video-wrapper img{
+	width: 100%;
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "path": "/home",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 2,
+    "title": "Pashmina",
+    "path": "/pashmina",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 3,
+    "title": "Scarves",
+    "path": "/scarves",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 4,
+    "title": "Cashmere",
+    "path": "/cashmere",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 5,
+    "title": "Boutique",
+    "path": "/boutique",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 6,
+    "title": "Jewelry",
+    "path": "/jewelry",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 7,
+    "title": "Interior Decor",
+    "path": "/interiorDecor",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 8,
+    "title": "Carpet",
+    "path": "/carpet",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  },
+  {
+    "id": 9,
+    "title": "Furniture",
+    "path": "/furniture",
+    "component": "HomePageWrapperComponent",
+    "exact": false
+  }
+]
